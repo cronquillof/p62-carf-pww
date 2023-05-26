@@ -6,5 +6,5 @@
 ## Cristopher Ronquillo, cronquillof@est.ups.edu.ec
 ## Curso de Programacion Web y Plataformas Web
 * HTML5
-* -CSS
-* -JavaScript
+* CSS
+* JavaScript
