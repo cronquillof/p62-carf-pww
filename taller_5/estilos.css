@@ -1,0 +1,25 @@
+.opcion{
+        position: absolute;
+        top: 50px;
+        width: 300px;
+        height: 300px;
+
+}
+
+.contenedor {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+
+#opcion1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1;
+}
+
+#opcion2{
+    background-color: white;
+    z-index: 2;
+}
