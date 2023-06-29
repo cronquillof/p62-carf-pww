@@ -1,0 +1,7 @@
+#cajita {
+    border-radius: 50%;
+    background-color: lightgoldenrodyellow;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+}
